@@ -50,6 +50,10 @@ JWT_SECRET=(some random long string)
 - Open a Terminal and change to the `server` directory
 
   - `cd server`
+ 
+- Install the Dependencies
+
+  - `npm install`
 
 - Migrate the Database
 
@@ -78,6 +82,10 @@ VITE_GOOGLE_CLIENT_ID=(your own google client id)
 - Open another Terminal and change to the `client` directory
 
   - `cd client`
+ 
+ - Install the Dependencies
+ 
+  - `npm install`
 
 - Run the React Client in Development Mode
 
