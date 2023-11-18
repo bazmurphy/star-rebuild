@@ -83,8 +83,8 @@ VITE_GOOGLE_CLIENT_ID=(your own google client id)
 
   - `cd client`
  
- - Install the Dependencies
- 
+- Install the Dependencies
+
   - `npm install`
 
 - Run the React Client in Development Mode
