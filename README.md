@@ -18,7 +18,7 @@
 
   - `\q`
 
-## 2. Express Server
+## 2. Express Server API
 
 - Make a copy of the `/server/.env.example` file, and rename it to `.env`
 
@@ -59,7 +59,7 @@ JWT_SECRET=(some random long string)
 
   - `npm run dev`
 
-- Visit http://localhost:4000 to check the Server
+- Visit http://localhost:4000/api to check the Server
 
 ## 3. React Client
 
